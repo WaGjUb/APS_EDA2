@@ -1,0 +1,9 @@
+----- Compilando o código -----
+apenas digite make no terminal dentro da pasta "Cervedox" para compilar o projeto e gerar o arquivo "Cerveja.o" 
+
+----- Executando o programa -----
+Você pode executar o programa apenas digitando no terminal ./Cerveja.o
+
+Observações: Não terminei o programa pois deixei pra ultima hora e não vai dar tempo de terminar até o horario da entrega por se tratar de um código bem complexo, mas achei bem interessante trabalhar com arquivos e arvores e portanto durante as ferias terminarei o programa e estará aqui no github para quem quiser bisbilhotar.
+
+link do projeto: https://github.com/WaGjUb/APS_EDA2
